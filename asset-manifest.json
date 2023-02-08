@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/QRCodeGenerator/static/css/main.c200098c.css",
-    "main.js": "/QRCodeGenerator/static/js/main.bdf5a72c.js",
-    "static/media/video.mp4": "/QRCodeGenerator/static/media/video.05a9248c3546667e9718.mp4",
-    "index.html": "/QRCodeGenerator/index.html",
-    "main.c200098c.css.map": "/QRCodeGenerator/static/css/main.c200098c.css.map",
-    "main.bdf5a72c.js.map": "/QRCodeGenerator/static/js/main.bdf5a72c.js.map"
+    "main.css": "/static/css/main.c200098c.css",
+    "main.js": "/static/js/main.736e5850.js",
+    "static/media/video.mp4": "/static/media/video.05a9248c3546667e9718.mp4",
+    "index.html": "/index.html",
+    "main.c200098c.css.map": "/static/css/main.c200098c.css.map",
+    "main.736e5850.js.map": "/static/js/main.736e5850.js.map"
   },
   "entrypoints": [
     "static/css/main.c200098c.css",
-    "static/js/main.bdf5a72c.js"
+    "static/js/main.736e5850.js"
   ]
 }
