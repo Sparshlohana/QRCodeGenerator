@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 60vh;
+  /* width: 30vw; */
+  background: #ffffff14;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #fff;
+  text-decoration: underline;
+  margin-bottom: 10%;
+}
+
+label {
+  color: #fff;
+  font-size: 1.5rem;
+  margin: 10px;
+}
+
+.input {
+  padding: 10px;
+  font-size: 1.25rem;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+input:focus {
+  outline: none;
+  border: 2px solid #000;
+}
+
+.qrCode {
+  margin: 30px;
+  width: 35% !important;
+  height: auto !important;
+}
